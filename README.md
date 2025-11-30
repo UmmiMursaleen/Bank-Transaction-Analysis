@@ -108,6 +108,8 @@ Detect fraud early
 
 
 https://app.powerbi.com/view?r=eyJrIjoiNWM4MGNlMTYtODg0Mi00N2JlLTllNTEtYTVlNjcyNTIzMjQ3IiwidCI6ImE1YTkwM2M4LWRjMDgtNGJlMi1iMTdiLWFkNzZiM2U5NzI2YiIsImMiOjl9
+
+
 <img width="1317" height="736" alt="image" src="https://github.com/user-attachments/assets/36832b9c-e5a0-4798-9f62-8b938b60d792" />
 <img width="1322" height="740" alt="image" src="https://github.com/user-attachments/assets/6478885b-70e9-44ce-9157-3c6b22c4c2a5" />
 <img width="1318" height="743" alt="image" src="https://github.com/user-attachments/assets/2a451245-a057-4134-9d94-5f7703ae2c4e" />
