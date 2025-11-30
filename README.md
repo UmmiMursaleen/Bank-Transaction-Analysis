@@ -107,7 +107,7 @@ Detect fraud early
     •	Global map showing transaction distribution
 
 
-https://app.powerbi.com/view?r=eyJrIjoiNWM4MGNlMTYtODg0Mi00N2JlLTllNTEtYTVlNjcyNTIzMjQ3IiwidCI6ImE1YTkwM2M4LWRjMDgtNGJlMi1iMTdiLWFkNzZiM2U5NzI2YiIsImMiOjl9
+Live Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNWM4MGNlMTYtODg0Mi00N2JlLTllNTEtYTVlNjcyNTIzMjQ3IiwidCI6ImE1YTkwM2M4LWRjMDgtNGJlMi1iMTdiLWFkNzZiM2U5NzI2YiIsImMiOjl9
 
 
 <img width="1317" height="736" alt="image" src="https://github.com/user-attachments/assets/36832b9c-e5a0-4798-9f62-8b938b60d792" />
